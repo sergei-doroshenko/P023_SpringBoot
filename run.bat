@@ -1,0 +1,1 @@
+java -jar ./target/sb-test-1.0.jar
