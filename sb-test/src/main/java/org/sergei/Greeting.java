@@ -1,4 +1,4 @@
-package hello;
+package org.sergei;
 
 /**
  * Created by Sergei on 16.08.2016.
