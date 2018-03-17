@@ -15,4 +15,4 @@ hs_err_pid*
 
 # IDEA files
 .idea/
-P023_SpringBoot.iml
+*.iml
